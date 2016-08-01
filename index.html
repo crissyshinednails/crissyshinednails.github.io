@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -82,39 +84,10 @@
 			<div class="row">
 				<h2 class="centered">SERVICES</h2>
 				<hr>
-				<br>
 				<div class="centered col-lg-offset-2 col-lg-8">
-          <h3>Current Specials (until August 1st):</h3>
-          <p>
-          Gel Mani + Regular Pedi: $45<br/>
-          Pedicure w/ FREE scrub: $25<br/>
-          Hand painted nail art: $1 per nail<br/>
-          FREE Henna with upgraded service<br/><br/>
-          </p>
-          <h3>Regular services:</h3>
-          <p>
-          Full set of UV hard gel: $40<br/><br/>
-          Gel overlay: $28<br/><br/>
-          Gel manicure: $25<br/>
-          + mood polish: $5<br/><br/>
-          Regular polish manicure: $15<br/><br/>
-          Soak off / file off (free if I performed your service): $8<br/>
-          Nail repair: $3/nail<br/>
-          Fill-ins (own work only): $12<br/>
-          Polish change (feet): $12<br/>
-          Gel polish change (feet): $15<br/><br/>
-          Men's manicure/pedicure: $30<br/>
-          Men's manicure: $12<br/><br/>
-          Hand-painted nail art: $2/finger<br/>
-          Glitter/encapsulation: $3/finger<br/>
-          3D/character nail art: $4/finger<br/>
-          Bling nail/Chrome nail: $5/finger<br/>
+          {% capture services %}{% include_relative services.md %}{% endcapture %}{{ services | markdownify }}
           <br/>
-          Mobile/travel fee: $10 added to your service<br/>
-          <strong>Mobile appointments must be booked at least 48 hours in advance</strong><br/>
-          <br/>
-          <strong>Accepting cash and all major credit cards</strong><br/>
-          <br/>
+          <strong>Accepting cash and all major credit cards</strong><br/><br/>
           <img class="img-responsive center-block" src="assets/img/square.jpg" alt="Square logo"/>
           </p>
 				</div><!-- col-lg -->
