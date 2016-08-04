@@ -1,7 +1,6 @@
 * Gel Mani + Regular Pedi: $45
+
 * Pedicure w/ FREE scrub: $25
-* Hand painted nail art: $1 per nail
-* FREE Henna with upgraded service
 
 * Full set of UV hard gel: $40
 
@@ -25,6 +24,7 @@
 * Glitter/encapsulation: $3/finger
 * 3D/character nail art: $4/finger
 * Bling nail/Chrome nail: $5/finger
+* Henna: $5
 
 * Mobile/travel fee: $10 added to your service
 * **Mobile appointments must be booked at least 48 hours in advance**
