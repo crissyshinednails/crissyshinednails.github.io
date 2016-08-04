@@ -1,11 +1,7 @@
-### Current Specials (until August 1st):
-
 * Gel Mani + Regular Pedi: $45
 * Pedicure w/ FREE scrub: $25
 * Hand painted nail art: $1 per nail
 * FREE Henna with upgraded service
-
-### Regular services:
 
 * Full set of UV hard gel: $40
 
