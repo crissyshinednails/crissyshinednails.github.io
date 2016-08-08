@@ -11,14 +11,14 @@
 
 * Regular polish manicure: $15
 
+* Men's manicure \+ pedicure: $30
+* Men's manicure: $12
+
 * Soak off / file off (free if I performed your service): $8
 * Nail repair: $3/nail
 * Fill-ins (own work only): $12
 * Polish change (feet): $12
 * Gel polish change (feet): $15
-
-* Men's manicure/pedicure: $30
-* Men's manicure: $12
 
 * Hand-painted nail art: $2/finger
 * Glitter/encapsulation: $3/finger
