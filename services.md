@@ -4,7 +4,7 @@
 
 * Pedicure w/ FREE scrub: $25
 
-* Full set of UV hard gel: $40
+* Full set of UV hard gel extensions: $40
 
 * Gel overlay: $28
 
