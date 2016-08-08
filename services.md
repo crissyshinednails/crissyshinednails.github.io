@@ -1,13 +1,12 @@
 * Gel Mani + Regular Pedi: $45
+* Gel manicure: $25
+* \+ mood polish: $5
 
 * Pedicure w/ FREE scrub: $25
 
 * Full set of UV hard gel: $40
 
 * Gel overlay: $28
-
-* Gel manicure: $25
-* \+ mood polish: $5
 
 * Regular polish manicure: $15
 
