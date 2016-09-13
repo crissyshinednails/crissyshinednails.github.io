@@ -25,5 +25,9 @@
 * Bling nail/Chrome nail: $5/finger
 * Henna: $5
 
+* **Late Fee:** $5 will be added to your total for every 10 min you are late to your appointment
+* **Cancellation Policy:** at least 3 hours courtesy notice, or you will be charged as a no show
+* **No Show Policy:** no call / no text, automatic $15 charge to rebook
+
 * Mobile/travel fee: $10 added to your service
 * **Mobile appointments must be booked at least 48 hours in advance**
