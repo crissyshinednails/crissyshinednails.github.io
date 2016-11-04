@@ -175,6 +175,11 @@ p {
     text-align: center;
 }
 
+.booknow {
+  margin-right: 1em;
+  text-align: center;
+}
+
 .paragraph-lead {
     font-size: 20px;
     color: #3498db;
