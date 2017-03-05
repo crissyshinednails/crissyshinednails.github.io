@@ -1,35 +1,32 @@
+* Gel Manicure: $25
+* Regular Pedicure w/ FREE scrub: $25
 * Gel Mani \+ Regular Pedi: $45
-* Gel manicure: $25
-* \+ mood polish: $5
 
-* Pedicure w/ FREE scrub: $25
+* Full Set of hard gel extensions: $40
 
-* Full set of UV hard gel extensions: $40
-
-* Gel overlay: $28
+* Gel Overlay: $30
 
 * Regular polish manicure: $15
 * Regular polish mani \+ regular polish pedi: $35
 
-* Men's manicure \+ pedicure: $30
-* Men's manicure: $12
+* The Boyfriend Manicure: $12
+* The Boyfriend Pedicure: $20
+* The Boyfriend Manicure \+ Pedicure: $30
 
 * Soak off / file off (free if I performed your gel manicure service): $8
 * Soak off / file off extensions or overlay: $12
 * Nail repair: $3/nail
 * Fill-ins (own work only): $12
+* Gel polish change (hands): $15
 * Polish change (feet): $12
-* Gel polish change (feet): $15
 
-* Hand-painted nail art: $2/finger
-* Glitter/encapsulation/striping tape: $3/finger
+* Hand-painted nail art / foil: $2/finger
+* Glitter/encapsulation / striping tape: $3/finger
 * 3D/character nail art: $4/finger
+* Mood / Magnetic polish: $5
 * Bling nail: $5/finger
 * Henna: $5
 
 * **Late Fee:** $5 will be added to your total for every 10 min you are late to your appointment
 * **Cancellation Policy:** at least 3 hours courtesy notice, or you will be charged as a no show
 * **No Show Policy:** no call / no text, automatic $15 charge to rebook
-
-* Mobile/travel fee: $10 added to your service
-* **Mobile appointments must be booked at least 48 hours in advance**
