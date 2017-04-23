@@ -8,11 +8,11 @@
 * Gel Overlay: $30
 
 * Regular polish manicure: $15
-* Regular polish mani \+ regular polish pedi: $35
+* Regular polish mani \+ regular polish pedi: $35 (add jelly for $5)
 
 * [The Boyfriend Manicure](https://www.instagram.com/p/BQ_nNczlOC9/): $12
 * The Boyfriend Pedicure: $20
-* The Boyfriend Manicure \+ Pedicure: $30
+* The Boyfriend Manicure \+ Pedicure: $30 (add jelly for $5)
 
 * [Soak off](https://www.instagram.com/p/BMXVMnRhzVl/) / file off (free if I performed your gel manicure service): $8
 * Soak off / file off extensions or overlay: $12
