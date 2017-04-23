@@ -1,6 +1,7 @@
 * Gel Manicure: $25
 * Regular Pedicure w/ FREE scrub: $25
-* Gel Mani \+ Regular Pedi: $45
+* Jelly Pedi: $32
+* Gel Mani \+ Regular Pedi: $45 (add jelly for $5)
 
 * Full Set of hard gel extensions: $40
 
@@ -16,13 +17,14 @@
 * Soak off / file off (free if I performed your gel manicure service): $8
 * Soak off / file off extensions or overlay: $12
 * Nail repair: $3/nail
+* Reshape: $7
 * Fill-ins (own work only): $12
-* Gel polish change (hands): $15
+* Gel polish change (hands, extensions or overlays only): $15
 * Polish change (feet): $12
 
 * Hand-painted nail art / foil: $2/finger
-* Glitter/encapsulation / striping tape: $3/finger
-* 3D/character nail art: $4/finger
+* Glitter / encapsulation / stickers: $3/finger
+* 3D / character nail art: $4/finger
 * Mood / Magnetic polish: $5
 * Bling nail: $5/finger
 * Henna: $5
