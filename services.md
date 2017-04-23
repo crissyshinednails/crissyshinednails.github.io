@@ -3,21 +3,21 @@
 * [Jelly Pedi](https://www.instagram.com/p/BRd5XWQFAv4/): $32
 * Gel Mani \+ Regular Pedi: $45 (add jelly for $5)
 
-* Full Set of hard gel extensions: $40
+* [Full Set of hard gel extensions](https://www.instagram.com/p/BTNK9dEFA2C/): $40
 
 * Gel Overlay: $30
 
 * Regular polish manicure: $15
 * Regular polish mani \+ regular polish pedi: $35
 
-* The Boyfriend Manicure: $12
+* [The Boyfriend Manicure](https://www.instagram.com/p/BQ_nNczlOC9/): $12
 * The Boyfriend Pedicure: $20
 * The Boyfriend Manicure \+ Pedicure: $30
 
-* Soak off / file off (free if I performed your gel manicure service): $8
+* [Soak off](https://www.instagram.com/p/BMXVMnRhzVl/) / file off (free if I performed your gel manicure service): $8
 * Soak off / file off extensions or overlay: $12
-* Nail repair: $3/nail
-* Reshape: $7
+* [Nail repair](https://www.instagram.com/p/BTEiXW4FfAT/): $3/nail
+* [Reshape](https://www.instagram.com/p/BTB6E8FFLMo/): $7
 * Fill-ins (own work only): $12
 * Gel polish change (hands, extensions or overlays only): $15
 * Polish change (feet): $12
