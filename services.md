@@ -29,6 +29,6 @@
 * Bling nail: $5/finger
 * Henna: $5
 
-* **Late Fee:** $5 will be added to your total for every 10 min you are late to your appointment
+* **Late Fee:** $5 will be added to your total if you are 10 minutes late or more, if you are 15 minutes late or more you may be treated as an automatic cancellation/no show
 * **Cancellation Policy:** at least 3 hours courtesy notice, or you will be charged as a no show
 * **No Show Policy:** no call / no text, automatic $15 charge to rebook
