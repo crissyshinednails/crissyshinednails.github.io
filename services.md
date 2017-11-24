@@ -30,3 +30,5 @@
 * **Late Fee:** $5 will be added to your total for every 10 min you are late to your appointment
 * **Cancellation Policy:** at least 3 hours courtesy notice, or you will be charged as a no show
 * **No Show Policy:** no call / no text, automatic $15 charge to rebook
+* **After two no-shows, I will no longer allow you to schedule appointments**
+* **I reserve the right to refuse service at my discretion**
