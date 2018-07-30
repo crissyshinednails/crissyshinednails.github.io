@@ -1,5 +1,5 @@
 * Gel Manicure: $25
-* Regular Pedicure w/ FREE scrub: $25
+* Regular Pedicure: $25
 * Gel Mani \+ Regular Pedi: $45
 
 * [Full Set of hard gel extensions](https://www.instagram.com/p/BTNK9dEFA2C/): $47
