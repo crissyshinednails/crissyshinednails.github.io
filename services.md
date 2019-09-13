@@ -1,3 +1,6 @@
+**All appointments now require a $20 non-refundable booking deposit<br/>
+which will be applied to the cost of your services**
+
 * Gel Manicure: $30
 * Regular Pedicure: $30
 * Gel Mani \+ Regular Pedi: $50
@@ -27,9 +30,9 @@
 * Mood / Magnetic polish: $5
 * Bling nail: $5/finger
 
-* **Late Fee:** $10 will be added to your total if you are 10 minutes late or more
-* If you are 15 minutes late or more you may be treated as an automatic cancellation/no show
-* **Cancellation Policy:** at least 3 hours courtesy notice, or you will be charged as a no show
-* **No Show Policy:** no call / no text, automatic $20 charge to rebook
-* **After two no-shows, I will no longer allow you to schedule appointments**
+* **Late Policy:**
+* If you are 10 minutes late or more our visit will automatically be rescheduled and your $20 deposit will be kept
+* **Cancellation Policy:** at least 3 hours courtesy notice, or your deposit will be kept
+* **No Show Policy:** no call / no text / no show, your deposit will be kept and you will no longer be a Crissy Shined Nails client
+* **After three+ cancellations, I will no longer allow you to schedule appointments**
 * **I reserve the right to refuse service at my discretion**
