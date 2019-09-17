@@ -31,8 +31,8 @@ which will be applied to the cost of your services**
 * Bling nail: $5/finger
 
 * **Late Policy:**
-* If you are 10 minutes late or more our visit will automatically be rescheduled and your $20 booking fee will be kept
+* If you are 10 minutes late or more our visit will automatically be rescheduled<br/>and your $20 booking fee will be kept
 * **Cancellation Policy:** at least 3 hours courtesy notice, or your booking fee will be kept
-* **No Show Policy:** no call / no text / no show, your booking fee will be kept and you will no longer be a Crissy Shined Nails client
+* **No Show Policy:** no call / no text / no show, your booking fee will be kept<br/>and you will no longer be a Crissy Shined Nails client
 * **After three+ cancellations, I will no longer allow you to schedule appointments**
 * **I reserve the right to refuse service at my discretion**
