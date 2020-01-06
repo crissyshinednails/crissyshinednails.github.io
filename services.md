@@ -1,5 +1,3 @@
-**All appointments now require a $20 non-refundable booking fee<br/>
-which will be applied to the cost of your services**
 
 * [Gel Manicure](https://www.instagram.com/p/B1mXB6ZlCEd/): $30
 * Regular Pedicure: $30
@@ -31,8 +29,8 @@ which will be applied to the cost of your services**
 * Bling nail: $5/finger
 
 * **Late Policy:**
-* If you are 10 minutes late or more our visit will automatically be rescheduled<br/>and your $20 booking fee will be kept
-* **Cancellation Policy:** at least 3 hours courtesy notice, or your booking fee will be kept
-* **No Show Policy:** no call / no text / no show, your booking fee will be kept<br/>and you will no longer be a Crissy Shined Nails client
+* If you are 10 minutes late or more our visit will automatically be rescheduled
+* **Cancellation Policy:** at least 3 hours courtesy notice
+* **No Show Policy:** no call / no text / no show<br/>you will no longer be a Crissy Shined Nails client
 * **After three+ cancellations, I will no longer allow you to schedule appointments**
 * **I reserve the right to refuse service at my discretion**
