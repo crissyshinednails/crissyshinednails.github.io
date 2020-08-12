@@ -38,7 +38,7 @@
       "@id": "https://crissyshinednails.com",
       "name": "Crissy Shined Nails",
       "url": "https://crissyshinednails.com",
-      "image": "https://crissyshinednails.com/assets/img/salon.jpg",
+      "image": "https://crissyshinednails.com/assets/img/salon.png",
       "logo": "https://crissyshinednails.com/assets/img/logo.png",
       "priceRange": "$",
       "address": {
@@ -129,7 +129,11 @@
     <div class="container-fluid">
       <div class="row text-center">
         <div class="col-sm-6 col-12">
-          <img src="assets/img/logo.png" alt="logo" width="250px"/><br/><br/><br/>
+          <picture>
+            <source srcset="assets/img/logo.webp" type="image/webp" width="250px"/>
+            <img src="assets/img/logo.png" alt="logo" width="250px"/>
+          </picture>
+          <br/><br/><br/>
         </div>
         <div class="col-sm-6 col-12 mx-auto p-5" id="book">
           <h2 class="display-5">Currently Not Accepting New Clients</h2>
@@ -168,6 +172,7 @@
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="assets/bootstrap-4.5.2-dist/js/bootstrap.min.js"></script>
+    <script src="assets/modernizr-3.6.0-webp.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <!-- <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script> -->
   </body>

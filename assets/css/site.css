@@ -1,5 +1,10 @@
-#headerbanner {
+.no-webp #headerbanner {
   background: url(../img/salon-82.jpg) no-repeat center top;
+  background-size: cover;
+}
+
+.webp #headerbanner {
+  background: url(../img/salon.webp) no-repeat center top;
   background-size: cover;
 }
 
