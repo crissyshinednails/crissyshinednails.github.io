@@ -11,10 +11,10 @@
     <title>Crissy Shined Nails | Durham, NC</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="assets/bootstrap-3.3.6-dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/bootstrap-4.5.2-dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="assets/css/main.css" rel="stylesheet">
+    <link href="assets/css/site.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/icomoon.css">
     
     <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
@@ -73,21 +73,34 @@
   </head>
 
   <body>
-    <!-- ==== HEADERWRAP ==== -->
-      <div id="headerwrap" id="home" name="home">
-      <header class="clearfix">
-            <h1>CRISSY SHINED NAILS</h1>
-            <div class="col-md-8 col-md-offset-2" id="infobox">
-              <p>Nail Tech</p>
-              <p>By Appointment Only</p>
-            </div>
-        </header>     
-      </div><!-- /headerwrap -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="#">Crissy Shined Nails</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto"><li class="nav"><a class="nav-link" href="#contact">Contact</a></li></ul>
+        <ul class="navbar-nav mr-auto"><li class="nav"><a class="nav-link" href="#location">Location</a></li></ul>
+        <ul class="navbar-nav mr-auto"><li class="nav"><a class="nav-link" href="#hours">Hours</a></li></ul>
+        <ul class="navbar-nav mr-auto"><li class="nav"><a class="nav-link" href="#book">Book</a></li></ul>
+        <ul class="navbar-nav mr-auto"><li class="nav"><a class="nav-link" href="#services">Services</a></li></ul>
+        <ul class="navbar-nav mr-auto"><li class="nav"><a class="nav-link" href="#shop">Shop</a></li></ul>
+			</div>
+    </nav>
+    <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light" id="headerbanner">
+        <div class="col-md-10 p-lg-3 mx-auto mt-2">
+          <h1 class="display-2 font-weight-normal">CRISSY SHINED NAILS</h1>
+        </div>
+        <div id="infobox" class="col-md-6 mx-auto mb-4">
+          <p class="lead font-weight-normal">Nail Tech</p>
+          <p class="lead font-weight-normal">By Appointment Only</p>
+        </div>
+    </div><!-- /header -->
 
     <div id="about">
       <div class="row">
         <div class="col-md-4">
-          <h2>Contact</h2>
+          <h2 id="contact">Contact</h2>
           <strong>
             <span class="icon icon-phone"></span> (919)307-2961<br/>
             <span class="icon icon-envelop"></span> <a href="mailto:crystalesanders@gmail.com"> crystalesanders@gmail.com</a> <br/>
@@ -95,14 +108,14 @@
             <span class="icon icon-facebook"></span> <a href="https://www.facebook.com/crissyshinednails" target="_blank"> Crissy Shined Nails </a> <br/>
             <span class="icon icon-yelp"></span> <a href="https://www.yelp.com/biz/crissy-shined-nails-raleigh" target="_blank"> Yelp </a> <br/>
           </strong>
-          <h2>Location</h2>
+          <h2 id="location">Location</h2>
           <address>
             <strong>
               1910 Sedwick Road, Bldg. 200, Suite D<br/>
               Durham, NC<br/>
             </strong>
           </address>
-          <h2>Hours</h2>
+          <h2 id="hours">Hours</h2>
           <strong>Tue/Thur 11AM-4PM, Wed 5PM-10PM, Fri 1PM-6PM<br/>Sat - by Special Appointment</strong>
         </div><!-- col-md-4 -->
           
@@ -113,40 +126,48 @@
     </div>
     
     <!-- ==== SERVICES ==== -->
-    <div class="container" id="services" name="services">
-      <br>
-      <div class="booknow">
-        <img src="assets/img/logo.png" alt="logo" width="250px"/><br/><br/><br/>
-        <a href="https://crissy-shined-nails.booksy.net/" target="_blank"><img src="assets/img/book-now.png" alt="Book Now!" /></a>
-      <br/><br/>
-        <h3 class="centered">** Currently Not Accepting New Clients **</h4>
+    <div class="container-fluid">
+      <div class="row text-center">
+        <div class="col-sm-6 col-12">
+          <img src="assets/img/logo.png" alt="logo" width="250px"/><br/><br/><br/>
+        </div>
+        <div class="col-sm-6 col-12 mx-auto p-5" id="book">
+          <h2 class="display-5">Currently Not Accepting New Clients</h2>
+          <br/>
+          <p class="lead"><a href="http://crissy-shined-nails.booksy.net/" target="_blank" class="btn btn-outline-primary btn-lg">Existing Clients: Book Now!</a></p>
+        </div>
       </div>
-      <div class="row">
-        <h2 class="centered">SERVICES</h2>
-        <hr>
-        <div class="centered col-lg-offset-2 col-lg-8">
-          {% capture services %}{% include_relative services.md %}{% endcapture %}{{ services | markdownify }}
+      <br/>
+      <div class="row" id="services">
+        <div class="col-12 text-center">
+          <ul class="list-unstyled">
+            <li><h2 class="display-5">SERVICES</h2></li>
+          </ul>
+        </div>
+        <div class="text-center col-12" id="services-list">
+          {% capture services %}{% include_relative services.md %}{% endcapture %}{{ services | markdownify | replace: "<ul>", "<ul class='list-unstyled'>" }}
           <br/>
           <strong>Accepting cash and all major credit cards</strong><br/><br/>
-          <img class="img-responsive center-block" src="assets/img/square.jpg" alt="Square logo"/>
+          <img class="img-fluid center-block" src="assets/img/square.jpg" alt="Square logo"/>
           </p>
         </div><!-- col-lg -->
       </div><!-- row -->
       <br/>
+      <div class="row" id="shop">
+        <div class="col-12 text-center">
+          <h2 class="display-5">SHOP</h2>
+          <p class="lead">Coming soon!</p>
+        </div>
+      </div>
+      <br/>
       <br/>
     </div><!-- container -->
-
-    <div id="footerwrap">
-      <div class="container">
-        <h4>Shield Theme Created by <a href="http://blacktie.co">BlackTie.co</a> - Copyright 2014</h4>
-      </div>
-    </div>
-
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script src="assets/bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="assets/bootstrap-4.5.2-dist/js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <!-- <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script> -->
   </body>
