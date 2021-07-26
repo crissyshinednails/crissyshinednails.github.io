@@ -1,28 +1,33 @@
 
-* [Gel Manicure](https://www.instagram.com/p/B1mXB6ZlCEd/): $30
-* Regular Pedicure: $30
-* Gel Mani \+ Regular Pedi: $50
+* Gel Manicure: $35
+* [Gel Manicure \+ Tier 1 art](https://www.instagram.com/p/CGWYep8lWY5/): $45
+* Gel Manicure \+ Soak off \+ Tier 1 art: $55
 
-* [Full Set of hard gel extensions](https://www.instagram.com/p/Bsl7XThlQd2/): $62
+* Regular Pedicure: $35
+* [Gel Polish Pedicure](https://www.instagram.com/p/CRkHOoRF8t-/): $42
+* Gel Polish Pedicure \+ Soak off: $52
 
-* [Gel Overlay](https://www.instagram.com/p/Bo2oGdbhX_R/): $40
+* Gel Mani \+ Regular Pedi: $70
+* Gel Mani \+ Soak off \+ Regular Pedi: $80
 
-* [The Boyfriend Manicure](https://www.instagram.com/p/BQ_nNczlOC9/): $12
-* The Boyfriend Pedicure: $25
-* The Boyfriend Manicure \+ Pedicure: $32
+* Full Set of hard gel extensions (short to medium only): $68
+* [Gel Overlay](https://www.instagram.com/p/CJ9aFYBJUvi/): $45
+* [Gel Fill-in (own work only)](https://www.instagram.com/p/Bt6ZidTl9e4/): $52
 
-* [Soak off](https://www.instagram.com/p/BMXVMnRhzVl/) / file off (free if I performed your gel manicure service): $8
-* Soak off / file off extensions or overlay: $12
-* [Nail repair](https://www.instagram.com/p/BTEiXW4FfAT/): $4/nail
-* [Reshape](https://www.instagram.com/p/BurdaLzlaWQ/): $10
-* [Fill-ins (own work only)](https://www.instagram.com/p/Bt6ZidTl9e4/): $48
-* Polish change (feet): $15
+* [The Boyfriend Manicure](https://www.instagram.com/p/BQ_nNczlOC9/): $18
+* The Boyfriend Pedicure: $28
+* The Boyfriend Manicure \+ Pedicure: $41
 
-* Hand-painted nail art / foil: $3/finger
-* Glitter / encapsulation / stickers: $4/finger
-* 3D / character nail art: $4/finger
-* Mood / Magnetic polish: $5
-* Bling nail: $5/finger
+* Soak off / file off (free if I performed your gel manicure service): $10
+* Soak off / file off extensions or overlay: $15
+* Nail repair: $8/nail
+* [Reshape](https://www.instagram.com/p/BurdaLzlaWQ/): $12
+
+**Art Services**
+
+* [Tier 1 nail art](https://www.instagram.com/p/CCrflyAl-X3/): $10
+* [Tier 2 nail art](https://www.instagram.com/p/CK-QqvWlh7f/): $15
+* [Tier 3 nail art](https://www.instagram.com/p/CMQixNEFL7D/): $22
 
 * **Late Policy:**
 * If you are 10 minutes late or more our visit will automatically be rescheduled, and you will be charged 50% of the service price
