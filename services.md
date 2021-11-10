@@ -10,7 +10,7 @@
 * Gel Mani \+ Regular Pedi: $70
 * Gel Mani \+ Soak off \+ Regular Pedi: $80
 
-* Full Set of hard gel extensions (short to medium only): $68
+* Full Set of hard gel / Gel-X extensions (short to medium only): $68
 * [Gel Overlay](https://www.instagram.com/p/CJ9aFYBJUvi/): $45
 * [Gel Fill-in (own work only)](https://www.instagram.com/p/Bt6ZidTl9e4/): $52
 
