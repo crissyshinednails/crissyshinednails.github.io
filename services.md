@@ -1,7 +1,7 @@
 
-* Gel Manicure: $35
-* [Gel Manicure \+ Tier 1 art](https://www.instagram.com/p/CGWYep8lWY5/): $45
-* Gel Manicure \+ Soak off \+ Tier 1 art: $55
+* Gel Manicure: $38
+* [Gel Manicure \+ Tier 1 art](https://www.instagram.com/p/CGWYep8lWY5/): $48
+* Gel Manicure \+ Soak off \+ Tier 1 art: $58
 
 * Regular Pedicure: $35
 * [Gel Polish Pedicure](https://www.instagram.com/p/CRkHOoRF8t-/): $42
@@ -11,10 +11,10 @@
 * Gel Mani \+ Soak off \+ Regular Pedi: $80
 
 * Full Set of hard gel / Gel-X extensions (short to medium only): $68
-* [Gel Overlay](https://www.instagram.com/p/CJ9aFYBJUvi/): $45
-* [Gel Fill-in (own work only)](https://www.instagram.com/p/Bt6ZidTl9e4/): $52
+* [Gel Overlay](https://www.instagram.com/p/CJ9aFYBJUvi/): $47
+* [Gel Fill-in (own work only)](https://www.instagram.com/p/Bt6ZidTl9e4/): $58
 
-* [The Boyfriend Manicure](https://www.instagram.com/p/BQ_nNczlOC9/): $18
+* [The Boyfriend Manicure](https://www.instagram.com/p/BQ_nNczlOC9/): $20
 * The Boyfriend Pedicure: $28
 * The Boyfriend Manicure \+ Pedicure: $41
 
