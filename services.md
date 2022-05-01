@@ -1,33 +1,26 @@
+**For the Hands**
 
 * Gel Manicure: $38
-* [Gel Manicure \+ Tier 1 art](https://www.instagram.com/p/CGWYep8lWY5/): $48
+* Gel Manicure \+ Tier 1 art: $48
 * Gel Manicure \+ Soak off \+ Tier 1 art: $58
+* The Boyfriend Manicure: $20
 
-* Regular Pedicure: $35
-* [Gel Polish Pedicure](https://www.instagram.com/p/CRkHOoRF8t-/): $42
-* Gel Polish Pedicure \+ Soak off: $52
+* Full Set of Gel-X Extensions: $70
+* Hard Gel Overlay: $50
+* Hard Gel Fill-in (own work only): $58
 
-* Gel Mani \+ Regular Pedi: $70
-* Gel Mani \+ Soak off \+ Regular Pedi: $80
-
-* Full Set of hard gel / Gel-X extensions (short to medium only): $68
-* [Gel Overlay](https://www.instagram.com/p/CJ9aFYBJUvi/): $47
-* [Gel Fill-in (own work only)](https://www.instagram.com/p/Bt6ZidTl9e4/): $58
-
-* [The Boyfriend Manicure](https://www.instagram.com/p/BQ_nNczlOC9/): $20
-* The Boyfriend Pedicure: $28
-* The Boyfriend Manicure \+ Pedicure: $41
-
-* Soak off / file off (free if I performed your gel manicure service): $10
-* Soak off / file off extensions or overlay: $15
+**Manicure Add-ons**
+* Soak off / file off gel manicure: $10
+* Soak off / file off extensions or overlay (returning clients, new clients must come with bare nails): $15
 * Nail repair: $8/nail
-* [Reshape](https://www.instagram.com/p/BurdaLzlaWQ/): $12
+* New Shape, Who Dis: $12
+* Cut Down: $8
 
-**Art Services**
+**OoOh, I love your nail art!**
 
-* [Tier 1 nail art](https://www.instagram.com/p/CCrflyAl-X3/): $10
-* [Tier 2 nail art](https://www.instagram.com/p/CK-QqvWlh7f/): $15
-* [Tier 3 nail art](https://www.instagram.com/p/CMQixNEFL7D/): $22
+* High Style Art Level 1: $10
+* High Style Art Level 2: $15
+* High Style Art Level 3: $25
 
 * **Late Policy:**
 * If you are 10 minutes late or more our visit will automatically be rescheduled, and you will be charged 50% of the service price
