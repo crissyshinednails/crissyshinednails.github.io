@@ -1,13 +1,13 @@
 **For the Hands**
 
-* Gel Manicure: $38
-* Gel Manicure \+ Tier 1 art: $48
-* Gel Manicure \+ Soak off \+ Tier 1 art: $58
+* Gel Manicure: $45
+* Gel Manicure \+ Tier 1 art: $55
+* Gel Manicure \+ Soak off \+ Tier 1 art: $62
 * The Boyfriend Manicure: $20
 
-* Full Set of Gel-X Extensions: $70
-* Hard Gel Overlay: $50
-* Hard Gel Fill-in (own work only): $58
+* Full Set of Gel-X Extensions: $80
+* Hard Gel Overlay: $56
+* Hard Gel Fill-in (own work only): $65
 
 **Manicure Add-ons**
 * Soak off / file off gel manicure: $10
