@@ -7,12 +7,12 @@
 * The Boyfriend Manicure: $20
 
 * Full Set of Gel-X Extensions: $80
-* Hard Gel Overlay: $56
-* Hard Gel Fill-in (own work only): $65
+* Structure Gel Mani: $60
+* Structure Gel Mani + Gel Mani Soak off: $70
 
 **Manicure Add-ons**
 * Soak off / file off gel manicure: $10
-* Soak off / file off extensions or overlay (returning clients, new clients must come with bare nails): $15
+* Soak off / file off extensions (returning clients, new clients must come with bare nails): $15
 * Nail repair: $8/nail
 * New Shape, Who Dis: $12
 * Cut Down: $8
